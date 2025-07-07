@@ -27,4 +27,4 @@ Este é um projeto simples de um **Gerador de Código QR** desenvolvido com **HT
 
 ## 📸 Preview
 
-![Preview](readme/preview.png)
+![Preview](Assets/preview.png)
